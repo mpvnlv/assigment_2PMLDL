@@ -1,6 +1,5 @@
-# assigment_2PMLDL
 # Movie Recommendation System using LightGCN
-# Introduction
+## Introduction
 This repository contains the implementation of a movie recommendation system using the LightGCN collaborative filtering model. The system is trained on the MovieLens dataset, consisting of user ratings for various movies. The goal is to provide personalized movie recommendations based on user preferences.
 
 ## Data Analysis
