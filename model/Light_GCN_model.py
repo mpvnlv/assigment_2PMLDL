@@ -2,7 +2,6 @@
 class LightGCN(MessagePassing):
     """
     LightGCN Model, see reference: https://arxiv.org/abs/2002.02126
-    We omit a dedicated class for LightGCNConvs for easy access to embeddings
     """
 
     def __init__(self, num_users, num_items, hidden_dim, num_layers):
