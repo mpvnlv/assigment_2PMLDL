@@ -1,0 +1,11 @@
+torch==2.1.0+cu118
+torch-scatter
+torch-sparse
+pyg-lib
+git+https://github.com/pyg-team/pytorch_geometric.git
+surprise
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
